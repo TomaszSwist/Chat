@@ -1,7 +1,7 @@
 
 import { createStore } from "redux";
-import { pizzaReducer } from "./reducers/globalReducer";
+import { chatReducer } from "./reducers/globalReducer";
 
-const store = createStore(pizzaReducer);
+const store = createStore(chatReducer);
 
 export default store;
