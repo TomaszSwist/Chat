@@ -4,8 +4,7 @@ export const ProfilePage = () => {
 			<h2>Profil</h2>
 			<h3>Twój</h3>
 			<label>
-				Podaj swój nick:
-				<input type='text' />
+				Podaj swój nick: <input type='text' />
 			</label>
 		</div>
 	)
